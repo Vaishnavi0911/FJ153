@@ -2,3 +2,8 @@ yhgvjhvjbhbs
 hghgugbug
 
 Hello Vaishnavi
+
+public void Student
+{
+   system.out.println("Welcome")
+}
