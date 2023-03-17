@@ -1,0 +1,13 @@
+//First Code
+
+Public static void main (String[] args)
+{
+  System.out.println("First Code")
+}
+
+
+//Second Code
+Public static void main (String[] args)
+{
+  System.out.println("Second Code")
+}
