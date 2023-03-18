@@ -6,7 +6,7 @@ Public static void main (String[] args)
 }
 
 
-//Second Code
+
 Public static void main (String[] args)
 {
   System.out.println("Second Code")
